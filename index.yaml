@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  noeud-de-vache:
+  - apiVersion: v1
+    created: "2021-01-26T12:46:54.466880995Z"
+    description: A Helm chart for Kubernetes
+    digest: a5142589682271b9f0d579c1ab1198efc8066bd3af2824160d43f2d349438a2a
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: noeud-de-vache
+    urls:
+    - noeud-de-vache-1.0.2.tgz
+    version: 1.0.2
+generated: "2021-01-26T12:46:54.465890616Z"
