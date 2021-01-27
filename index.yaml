@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   another-overseer:
   - apiVersion: v1
-    created: "2021-01-27T13:00:24.930048597Z"
+    created: "2021-01-27T13:09:07.235904546Z"
     description: A Helm chart for Kubernetes
     digest: ac641a9ace318653b0887a43a63f15c79fdb9e7d4e46a5fce5796f12905be6cd
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -12,7 +12,16 @@ entries:
     version: 1.1.1
   noeud-de-cabestan:
   - apiVersion: v1
-    created: "2021-01-27T13:00:24.931676263Z"
+    created: "2021-01-27T13:09:07.238442192Z"
+    description: A Helm chart for Kubernetes
+    digest: 203c14c6bb67d454d997bb08db3768106bfc0bf88341b5243767ac05733857da
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: noeud-de-cabestan
+    urls:
+    - noeud-de-cabestan-1.0.3.tgz
+    version: 1.0.3
+  - apiVersion: v1
+    created: "2021-01-27T13:09:07.237482313Z"
     description: A Helm chart for Kubernetes
     digest: bd1befd187a8812c01cd2d73fc710611eecac3b82a41ce6c4f66d44ce08da80a
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -21,7 +30,7 @@ entries:
     - noeud-de-cabestan-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
-    created: "2021-01-27T13:00:24.93088828Z"
+    created: "2021-01-27T13:09:07.23668013Z"
     description: A Helm chart for Kubernetes
     digest: a686b446bc8eadd644049adcec873be2d83005feee0dfb607c4226a211889cdc
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -31,7 +40,7 @@ entries:
     version: 1.0.1
   noeud-de-vache:
   - apiVersion: v1
-    created: "2021-01-27T13:00:24.932453246Z"
+    created: "2021-01-27T13:09:07.239317174Z"
     description: A Helm chart for Kubernetes
     digest: a5142589682271b9f0d579c1ab1198efc8066bd3af2824160d43f2d349438a2a
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -39,4 +48,4 @@ entries:
     urls:
     - noeud-de-vache-1.0.2.tgz
     version: 1.0.2
-generated: "2021-01-27T13:00:24.929082618Z"
+generated: "2021-01-27T13:09:07.234876768Z"
