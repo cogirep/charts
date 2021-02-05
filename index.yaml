@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   another-overseer:
   - apiVersion: v1
-    created: "2021-02-05T12:25:41.798655428Z"
+    created: "2021-02-05T15:19:35.220280308Z"
     description: A Helm chart for Kubernetes
     digest: ac641a9ace318653b0887a43a63f15c79fdb9e7d4e46a5fce5796f12905be6cd
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -12,7 +12,17 @@ entries:
     version: 1.1.1
   beyond-overseer:
   - apiVersion: v1
-    created: "2021-02-05T12:25:41.799570986Z"
+    created: "2021-02-05T15:19:35.223573914Z"
+    description: backend of Beyond Overseer, an application used to scan Sixense repository
+      packages
+    digest: b8d49c201d94672472bcc93f79c0e5bc5aa1a9153e749ca84235610b4ed7becf
+    icon: https://www.sixense-digitalsite.com/static/themes/sixense/img/logo-menu.png
+    name: beyond-overseer
+    urls:
+    - beyond-overseer-1.9.11.tgz
+    version: 1.9.11
+  - apiVersion: v1
+    created: "2021-02-05T15:19:35.222578952Z"
     description: backend of Beyond Overseer, an application used to scan Sixense repository
       packages
     digest: 525ff065572ca8a161786fe3c3bfe91eb853dccb1e07b3cbfa72be6fdf329d85
@@ -22,7 +32,7 @@ entries:
     - beyond-overseer-1.9.10.tgz
     version: 1.9.10
   - apiVersion: v1
-    created: "2021-02-05T12:25:41.800432342Z"
+    created: "2021-02-05T15:19:35.224455069Z"
     description: backend of Beyond Overseer, an application used to scan Sixense repository
       packages
     digest: 0069f32ff3dcc3824db0b6cbd4b590dc58949b29184b681cf877f17e048256a1
@@ -33,7 +43,7 @@ entries:
     version: 1.9.9
   beyond-overseer-client:
   - apiVersion: v1
-    created: "2021-02-05T12:25:41.808349351Z"
+    created: "2021-02-05T15:19:35.231614315Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: 883c00c481eae151d4307faf70c4dd0df8a97d1bc43ff6de7ba9ab3c04493c50
@@ -43,7 +53,7 @@ entries:
     - beyond-overseer-client-1.29.6.tgz
     version: 1.29.6
   - apiVersion: v1
-    created: "2021-02-05T12:25:41.807522698Z"
+    created: "2021-02-05T15:19:35.230633054Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: 82b5f243ec9b06839c52a32672fb07a9dbd4b757b7d543ea283c81c74a919308
@@ -53,7 +63,7 @@ entries:
     - beyond-overseer-client-1.29.5.tgz
     version: 1.29.5
   - apiVersion: v1
-    created: "2021-02-05T12:25:41.806665343Z"
+    created: "2021-02-05T15:19:35.229673994Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: 4acd24ef843c2eb880c6a3bc725149877a70abffb92a6d273f0999bc1f4b343d
@@ -63,7 +73,7 @@ entries:
     - beyond-overseer-client-1.29.4.tgz
     version: 1.29.4
   - apiVersion: v1
-    created: "2021-02-05T12:25:41.805159746Z"
+    created: "2021-02-05T15:19:35.228141598Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: 2b259682d8ae88e5da6af7c34d0098eef7253a41c04f338dc4c134e152d1a4d4
@@ -73,7 +83,7 @@ entries:
     - beyond-overseer-client-1.29.3.tgz
     version: 1.29.3
   - apiVersion: v1
-    created: "2021-02-05T12:25:41.803700452Z"
+    created: "2021-02-05T15:19:35.227256243Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: fb5420265f5e379517d13f028381dc980758efdb09323ebadaadee5ebcb58f8a
@@ -83,7 +93,7 @@ entries:
     - beyond-overseer-client-1.29.2.tgz
     version: 1.29.2
   - apiVersion: v1
-    created: "2021-02-05T12:25:41.802327264Z"
+    created: "2021-02-05T15:19:35.226379989Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: 561f6e425746aad7e52eebae7c793e8df6d03171fc54fa1b73c576af797c93a8
@@ -93,7 +103,7 @@ entries:
     - beyond-overseer-client-1.29.1.tgz
     version: 1.29.1
   - apiVersion: v1
-    created: "2021-02-05T12:25:41.801305998Z"
+    created: "2021-02-05T15:19:35.225368026Z"
     description: A Helm chart for Kubernetes
     digest: 41d5f5c385569ab1f8e447038dbac884d09c243526bb69e19994adb4912098a9
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -103,7 +113,7 @@ entries:
     version: 1.29.0
   noeud-de-cabestan:
   - apiVersion: v1
-    created: "2021-02-05T12:25:41.810810209Z"
+    created: "2021-02-05T15:19:35.234518596Z"
     description: A Helm chart for Kubernetes
     digest: 203c14c6bb67d454d997bb08db3768106bfc0bf88341b5243767ac05733857da
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -112,7 +122,7 @@ entries:
     - noeud-de-cabestan-1.0.3.tgz
     version: 1.0.3
   - apiVersion: v1
-    created: "2021-02-05T12:25:41.809998657Z"
+    created: "2021-02-05T15:19:35.233522234Z"
     description: A Helm chart for Kubernetes
     digest: bd1befd187a8812c01cd2d73fc710611eecac3b82a41ce6c4f66d44ce08da80a
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -121,7 +131,7 @@ entries:
     - noeud-de-cabestan-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
-    created: "2021-02-05T12:25:41.809141802Z"
+    created: "2021-02-05T15:19:35.232539073Z"
     description: A Helm chart for Kubernetes
     digest: a686b446bc8eadd644049adcec873be2d83005feee0dfb607c4226a211889cdc
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -131,7 +141,7 @@ entries:
     version: 1.0.1
   noeud-de-vache:
   - apiVersion: v1
-    created: "2021-02-05T12:25:41.8137844Z"
+    created: "2021-02-05T15:19:35.235435253Z"
     description: A Helm chart for Kubernetes
     digest: a5142589682271b9f0d579c1ab1198efc8066bd3af2824160d43f2d349438a2a
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -141,7 +151,7 @@ entries:
     version: 1.0.2
   noeud-palomar:
   - apiVersion: v1
-    created: "2021-02-05T12:25:41.815698923Z"
+    created: "2021-02-05T15:19:35.237208464Z"
     description: A Helm chart for Kubernetes
     digest: 7ce5ff00bbcaa1d184ddb9387a352e7578c8c2e79f525c4ab7b551b4f2630812
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -149,4 +159,4 @@ entries:
     urls:
     - noeud-palomar-0.0.6.tgz
     version: 0.0.6
-generated: "2021-02-05T12:25:41.796888414Z"
+generated: "2021-02-05T15:19:35.217692747Z"
