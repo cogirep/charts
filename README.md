@@ -1,1 +1,1 @@
-# charts
+# Helm charts repository for sxd-overlords projects.
