@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   beyond-overseer:
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.827397119Z"
+    created: "2021-02-11T09:18:49.664383259Z"
     description: backend of Beyond Overseer, an application used to scan Sixense repository
       packages
     digest: 4b08081049770efbb3edb6b792ab4600203bed6cbde59807df761a4757060da9
@@ -12,7 +12,7 @@ entries:
     - beyond-overseer-1.12.0.tgz
     version: 1.12.0
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.82573541Z"
+    created: "2021-02-11T09:18:49.663483903Z"
     description: backend of Beyond Overseer, an application used to scan Sixense repository
       packages
     digest: e9967f239d2af34e2728c56bfde513cad5f19919b310bdf0cbbd01e33b38f417
@@ -22,7 +22,7 @@ entries:
     - beyond-overseer-1.11.1.tgz
     version: 1.11.1
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.823107795Z"
+    created: "2021-02-11T09:18:49.662580447Z"
     description: backend of Beyond Overseer, an application used to scan Sixense repository
       packages
     digest: ac8731181ce0205925e67c417119220a44b1c44fbf580aa1ce41f8d83147466c
@@ -32,7 +32,7 @@ entries:
     - beyond-overseer-1.11.0.tgz
     version: 1.11.0
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.821661587Z"
+    created: "2021-02-11T09:18:49.661642488Z"
     description: backend of Beyond Overseer, an application used to scan Sixense repository
       packages
     digest: 4dea04d33531498527d720c4e8e3dfe98955242a24df33fb4334717d4c653b80
@@ -42,7 +42,7 @@ entries:
     - beyond-overseer-1.10.0.tgz
     version: 1.10.0
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.830346835Z"
+    created: "2021-02-11T09:18:49.666216873Z"
     description: backend of Beyond Overseer, an application used to scan Sixense repository
       packages
     digest: b8d49c201d94672472bcc93f79c0e5bc5aa1a9153e749ca84235610b4ed7becf
@@ -52,7 +52,7 @@ entries:
     - beyond-overseer-1.9.11.tgz
     version: 1.9.11
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.828781626Z"
+    created: "2021-02-11T09:18:49.665233412Z"
     description: backend of Beyond Overseer, an application used to scan Sixense repository
       packages
     digest: 525ff065572ca8a161786fe3c3bfe91eb853dccb1e07b3cbfa72be6fdf329d85
@@ -62,7 +62,7 @@ entries:
     - beyond-overseer-1.9.10.tgz
     version: 1.9.10
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.832194645Z"
+    created: "2021-02-11T09:18:49.668673726Z"
     description: backend of Beyond Overseer, an application used to scan Sixense repository
       packages
     digest: 0069f32ff3dcc3824db0b6cbd4b590dc58949b29184b681cf877f17e048256a1
@@ -73,7 +73,17 @@ entries:
     version: 1.9.9
   beyond-overseer-client:
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.853558063Z"
+    created: "2021-02-11T09:18:49.68466772Z"
+    description: frontend of Beyond Overseer, an application used to scan Sixense
+      repository packages
+    digest: 2ecb83394bf1e83ec01a2f1ba4ceace3e1b32a78a7d9b59a3e0f65e40b3673f9
+    icon: https://www.sixense-digitalsite.com/static/themes/sixense/img/logo-menu.png
+    name: beyond-overseer-client
+    urls:
+    - beyond-overseer-client-1.32.0.tgz
+    version: 1.32.0
+  - apiVersion: v1
+    created: "2021-02-11T09:18:49.683659757Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: 5e2fedcf778c11709cdd4fdf6cc0cce307d3d7e31264c8e8d31621721618c03e
@@ -83,7 +93,7 @@ entries:
     - beyond-overseer-client-1.31.0.tgz
     version: 1.31.0
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.852374257Z"
+    created: "2021-02-11T09:18:49.682647594Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: b58652c086fd79e6875423ab0fc229de1119fd3907c9de24efeb1c00daa1e552
@@ -93,7 +103,7 @@ entries:
     - beyond-overseer-client-1.30.0.tgz
     version: 1.30.0
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.836987672Z"
+    created: "2021-02-11T09:18:49.674176968Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: 55d5860ab2156205760a0440f263d2d542097ea10354ac4929e1fef680812fee
@@ -103,7 +113,7 @@ entries:
     - beyond-overseer-client-1.29.10.tgz
     version: 1.29.10
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.851281751Z"
+    created: "2021-02-11T09:18:49.681685034Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: 7a6c41cf889111c52f5aae2806d3459b7d8d793b14631bcae7c267d5637320ce
@@ -113,7 +123,7 @@ entries:
     - beyond-overseer-client-1.29.9.tgz
     version: 1.29.9
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.850128244Z"
+    created: "2021-02-11T09:18:49.680823481Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: 7eb29d5db56cb1be7a46bacfb032acbc39801b6a0df38371340727ab01aaa030
@@ -123,7 +133,7 @@ entries:
     - beyond-overseer-client-1.29.8.tgz
     version: 1.29.8
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.849010338Z"
+    created: "2021-02-11T09:18:49.679865721Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: 9f403a5d6010fb4acfb45ab255f61069737be054c2df42ad27401aad6ea108fd
@@ -133,7 +143,7 @@ entries:
     - beyond-overseer-client-1.29.7.tgz
     version: 1.29.7
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.847984532Z"
+    created: "2021-02-11T09:18:49.678996667Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: 883c00c481eae151d4307faf70c4dd0df8a97d1bc43ff6de7ba9ab3c04493c50
@@ -143,7 +153,7 @@ entries:
     - beyond-overseer-client-1.29.6.tgz
     version: 1.29.6
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.846330623Z"
+    created: "2021-02-11T09:18:49.678106012Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: 82b5f243ec9b06839c52a32672fb07a9dbd4b757b7d543ea283c81c74a919308
@@ -153,7 +163,7 @@ entries:
     - beyond-overseer-client-1.29.5.tgz
     version: 1.29.5
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.844388612Z"
+    created: "2021-02-11T09:18:49.677204856Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: 4acd24ef843c2eb880c6a3bc725149877a70abffb92a6d273f0999bc1f4b343d
@@ -163,7 +173,7 @@ entries:
     - beyond-overseer-client-1.29.4.tgz
     version: 1.29.4
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.84031229Z"
+    created: "2021-02-11T09:18:49.676189193Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: 2b259682d8ae88e5da6af7c34d0098eef7253a41c04f338dc4c134e152d1a4d4
@@ -173,7 +183,7 @@ entries:
     - beyond-overseer-client-1.29.3.tgz
     version: 1.29.3
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.838630581Z"
+    created: "2021-02-11T09:18:49.675086224Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: fb5420265f5e379517d13f028381dc980758efdb09323ebadaadee5ebcb58f8a
@@ -183,7 +193,7 @@ entries:
     - beyond-overseer-client-1.29.2.tgz
     version: 1.29.2
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.835371763Z"
+    created: "2021-02-11T09:18:49.673136103Z"
     description: frontend of Beyond Overseer, an application used to scan Sixense
       repository packages
     digest: 561f6e425746aad7e52eebae7c793e8df6d03171fc54fa1b73c576af797c93a8
@@ -193,7 +203,7 @@ entries:
     - beyond-overseer-client-1.29.1.tgz
     version: 1.29.1
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.833652653Z"
+    created: "2021-02-11T09:18:49.67131929Z"
     description: A Helm chart for Kubernetes
     digest: 41d5f5c385569ab1f8e447038dbac884d09c243526bb69e19994adb4912098a9
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -203,7 +213,7 @@ entries:
     version: 1.29.0
   beyond-overseer-qr:
   - apiVersion: v1
-    created: "2021-02-10T14:22:48.854937171Z"
+    created: "2021-02-11T09:18:49.685737086Z"
     description: backend of Beyond Overseer, an application used to scan Sixense repository
       packages
     digest: 2ffb701569759cb11977fc1eb4100e644977f63cd16fc0230e5b302efbb86f37
@@ -212,4 +222,4 @@ entries:
     urls:
     - beyond-overseer-qr-1.11.1.tgz
     version: 1.11.1
-generated: "2021-02-10T14:22:48.818991972Z"
+generated: "2021-02-11T09:18:49.660574922Z"
